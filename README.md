@@ -128,5 +128,4 @@ For questions or support, contact: inshahabib939@gmail.com
 © 2026 Insha Habib. All rights reserved.
 This software and its source code are the intellectual property of the author.
 
----
 **Crafted with passion by Insha Habib**
