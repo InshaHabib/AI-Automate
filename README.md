@@ -1,7 +1,9 @@
-<<<<<<< HEAD
-# CodeCelix - AI-Based Business Automation Website
+# AI-Based Business Automation Website
 
 A modern, responsive React website showcasing AI-powered business automation solutions built with React, Vite, Tailwind CSS, and Framer Motion.
+
+## Live Demo
+https://ai-based-business-automation.netlify.app/
 
 ## 🚀 Features
 
@@ -126,10 +128,4 @@ For questions or support, contact: inshahabib939@gmail.com
 © 2026 Insha Habib. All rights reserved.
 This software and its source code are the intellectual property of the author.
 
----
-
 **Crafted with passion by Insha Habib**
-
-=======
-# AI-Based-Business-Automation-Web
->>>>>>> ce31db51a3d8a52926e1c046ac9d1b47e6a65182

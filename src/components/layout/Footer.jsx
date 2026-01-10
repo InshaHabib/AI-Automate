@@ -33,10 +33,14 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-10 h-10 bg-gradient-to-r from-primary-600 to-accent-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">A</span>
+                {/* AI Brain/Bulb Icon */}
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
+                </svg>
               </div>
               <span className="text-2xl font-bold text-white">AI Automate</span>
             </div>
+
             <p className="text-gray-400">
               Empowering businesses with AI-driven automation solutions to save time, reduce costs, and boost productivity.
             </p>
