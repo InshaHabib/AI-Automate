@@ -19,10 +19,10 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, url: 'https://github.com/inshahabib', label: 'Github' },
-    { icon: Mail, url: 'mailto:inshahabib939@gmail.com', label: 'Email' },
-    { icon: Linkedin, url: 'https://www.linkedin.com/in/insha-habib-414441316/', label: 'LinkedIn' },
-    { icon: Instagram, url: 'https://instagram.com/tech.with.insha/', label: 'Instagram' },
+    { icon: Github, url: 'https://github.com/', label: 'Github' },
+    { icon: Mail, url: 'mailto:your@gmail.com', label: 'Email' },
+    { icon: Linkedin, url: 'https://www.linkedin.com/', label: 'LinkedIn' },
+    { icon: Instagram, url: 'https://instagram.com/', label: 'Instagram' },
   ];
 
   return (
@@ -103,11 +103,11 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-primary-400 mt-0.5" />
-                <span>inshahabib939@gmail.com</span>
+                <span>your@gmail.com</span>
               </li>
               <li className="flex items-start space-x-3">
                 <Phone className="w-5 h-5 text-primary-400 mt-0.5" />
-                <span>+92 307 1278881</span>
+                <span>+92 300 3456781</span>
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-primary-400 mt-0.5" />

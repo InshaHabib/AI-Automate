@@ -65,14 +65,14 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      content: 'inshahabib939@gmail.com',
-      link: 'mailto:inshahabib939@gmail.com',
+      content: 'your@gmail.com',
+      link: 'mailto:your@gmail.com',
     },
     {
       icon: Phone,
       title: 'Call Us',
-      content: '+92 307 1278881',
-      link: 'tel:+923071278881',
+      content: '+92 300 3456781',
+      link: 'tel:+923003456781',
     },
     {
       icon: MapPin,
