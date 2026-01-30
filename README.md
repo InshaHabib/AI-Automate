@@ -1,5 +1,5 @@
 
-# AI-Based Business Automation Website
+# AI-Automate
 
 A modern, responsive React website showcasing AI-powered business automation solutions built with React, Vite, Tailwind CSS, and Framer Motion.
 
@@ -41,7 +41,7 @@ https://ai-based-business-automation.netlify.app/
 ## 📁 Project Structure
 
 ```
-AI Based Business Automation Web/
+AI-Automate/
 ├── public/                  # Static assets
 ├── src/
 │   ├── components/
